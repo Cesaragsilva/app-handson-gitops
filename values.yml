@@ -1,0 +1,5 @@
+appName: app-handson
+appPort: 5000
+nodePort: 31317
+image:
+  name: cesarag92/api_k8s_ff
